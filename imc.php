@@ -30,8 +30,7 @@ if ($_server["REQUEST_METHOD"] == "POST") {
                 echo "<p>Classificação: Sobrepeso!</p>";
             } else {
                 echo "<p>Classificação: Obesidade!</p>";
-            }
-            ?>
+            }?>
         </body>
         </html>
         }
